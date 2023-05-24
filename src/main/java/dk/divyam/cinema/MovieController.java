@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = {"https://spotlight-movie.netlify.app/"})
+@CrossOrigin(origins = {"https://spotlight-movies.netlify.app/"})
 @RestController
 @RequestMapping("/api/v1/movies")
 public class MovieController {

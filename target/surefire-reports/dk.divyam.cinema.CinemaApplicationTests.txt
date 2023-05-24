@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dk.divyam.cinema.CinemaApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.096 s - in dk.divyam.cinema.CinemaApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.988 s - in dk.divyam.cinema.CinemaApplicationTests

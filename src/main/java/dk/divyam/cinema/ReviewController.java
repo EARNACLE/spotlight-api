@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-@CrossOrigin(origins = {"https://spotlight-movie.netlify.app/"})
+@CrossOrigin(origins = {"https://spotlight-movies.netlify.app/"})
 @RestController
 @RequestMapping("/api/v1/reviews")
 public class ReviewController {
