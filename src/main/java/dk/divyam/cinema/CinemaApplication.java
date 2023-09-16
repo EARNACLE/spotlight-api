@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 public class CinemaApplication {
-
+//	don't push code
 
 	public static void main(String[] args) {
 		SpringApplication.run(CinemaApplication.class, args);
